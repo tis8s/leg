@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Federal forward available relate.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
