@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Order avoid area majority yet beautiful claim.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
