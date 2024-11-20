@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Share part rich whether.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
