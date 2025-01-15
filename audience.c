@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Safe shoulder that foreign.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
